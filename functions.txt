@@ -1,0 +1,30 @@
+Communicatiion functions documentation:
+
+Communication Manager:
+Open peers.txt
+Count threads
+Start clients within the thread pool limit
+Manage "tried" list
+
+Node:
+
+peers______
+sync_______
+mytxhash___
+nonewblocks
+blockfound_
+blocknotfou
+
+---
+
+Client
+
+helloserver
+sendsync___
+nonewblocks
+blockfound_
+blocknotfou
+blockheight
+ 
+ 
+ just a draft, not precise or complete
