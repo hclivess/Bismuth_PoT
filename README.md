@@ -1,7 +1,7 @@
-Bismuth Readme
+Bismuth Proof of Transaction reference repository
 =======
 
-Bismuth and Clarity are currently switching to a traditional Proof of Work algorithm, the development can be followed here: https://github.com/hclivess/BismuthPOW
+Bismuth and Clarity are currently switching to a traditional Proof of Work algorithm, the development can be followed here: https://github.com/hclivess/Bismuth
 
 Whitepaper:
 https://github.com/hclivess/Bismuth/blob/master/whitepaper.md
