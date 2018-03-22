@@ -1,6 +1,8 @@
 Bismuth Proof of Transaction reference repository
 =======
 
+Warning: This version of the software is outdated and contains serious security flaws that can be exploited at will to take down the blockchain or communication between nodes in multiple ways. Think twice before running it, it is meant for inspiration and rewriting only.
+
 Bismuth and Clarity are currently switching to a traditional Proof of Work algorithm, the development can be followed here: https://github.com/hclivess/Bismuth
 
 Whitepaper:
